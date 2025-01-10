@@ -17,7 +17,7 @@ This script monitors SSH logs for failed login attempts and provides various sec
 
 To run this script, you need to have the following dependencies installed:
 
-- Python 3.x
+- Python 
 - Install the required dependencies:
   ```
   pip install requests geocoder python-dotenv smtplib elasticsearch
