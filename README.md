@@ -49,7 +49,7 @@ To run this script, you need to have the following dependencies installed:
 1. **Running the Script**:
    After configuring the environment variables and log path, you can run the script with the following command:
    ```
-   python brute_force_detector.py
+   python bruteforcedetector.py
    ```
    This will start the log analysis and send notifications if brute-force attempts are detected.
 
