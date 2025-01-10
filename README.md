@@ -60,13 +60,7 @@ To run this script, you need to have the following dependencies installed:
 
 ## License
 
-This project is licensed under the terms of the **MIT** or **GPL-3.0** License, at your discretion.
-
-- **MIT License**:
-  The MIT License is a permissive free software license. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
-
-- **GPL-3.0 License**:
-  The GPL-3.0 License ensures that the software remains open-source and that any derivative works are also open-source under the same license.
+This project is Educational Use License.
 
 ## Acknowledgments
 
