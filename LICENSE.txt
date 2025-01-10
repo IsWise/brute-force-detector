@@ -3,7 +3,7 @@ Educational Use License
 Copyright (c) 2025 iswise
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (brute-force-detector), to use, copy, and modify the Software solely for educational purposes, including teaching, research, and learning activities, subject to the following conditions:
+of this software and associated documentation files (bruteforcedetector), to use, copy, and modify the Software solely for educational purposes, including teaching, research, and learning activities, subject to the following conditions:
 
 1. The Software may not be used for any commercial purposes, including but not limited to selling, distributing, or using it for profit, without the express permission of the author.
 2. The Software may not be redistributed, sublicensed, or transferred to any third party, unless agreed upon with the author.
