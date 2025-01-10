@@ -1,0 +1,16 @@
+Educational Use License
+
+Copyright (c) 2025 iswise
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use, copy, and modify the Software solely for educational purposes, including teaching, research, and learning activities, subject to the following conditions:
+
+1. The Software may not be used for any commercial purposes, including but not limited to selling, distributing, or using it for profit, without the express permission of the author.
+2. The Software may not be redistributed, sublicensed, or transferred to any third party, unless agreed upon with the author.
+3. The Software is provided "as is," without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+4. Users agree to use the Software only in educational environments such as schools, universities, or research institutions.
+5. For any other use beyond the educational scope, including commercial purposes, users must obtain explicit permission from the author before using, distributing, or altering the Software.
+
+This license ensures the Software is used for educational purposes only, promoting learning and research. Any violation of these terms may result in legal action.
+
+For other uses beyond educational purposes, please contact iswise at ryanriveros@hotmail.com to request permission.
