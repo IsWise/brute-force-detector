@@ -11,7 +11,7 @@ This script monitors SSH logs for failed login attempts and provides various sec
 - **Slack Alerts**: Notifies a Slack channel when a brute-force attempt is detected.
 - **Custom Logging**: Allows custom log reporting to file.
 - **ElasticSearch Integration**: Optional integration with Elasticsearch for advanced data storage and searching.
-- **Dual License**: Available under MIT or GPL-3.0 license.
+- **License**:Educational Use License 
 
 ## Requirements
 
